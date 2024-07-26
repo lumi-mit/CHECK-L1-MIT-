@@ -1,0 +1,164 @@
+
+
+				====> 27 // 07 // 2024 <<BR>
+N° |              NOM              |               PRENOM               |MACHINE|   HEURE   |
+---|-------------------------------|------------------------------------|-------|-----------|
+01 |AMBININTSOA                    |Jonuca                        	|       |           |
+02 |ANDRIAMAHEFA                   |Alexandre Fandry              	|       |           |
+03 |ANDRIAMANDRATOMANANA           |Narindrantsoa                 	|       |           |
+04 |ANDRIANALIMANANA               |Finiavana Ambinintsoa         	|       |           |
+05 |ANDRIANANDRAINA                |Maherisoa Fanasina            	|       |           |
+06 |ANDRIANARIMINO                 |Tahiry Ny Aina Lawrena        	|       |           |
+07 |ANDRIANARIVO                   |Lantoniaina Frederick         	|       |           |
+08 |ANDRIANARIVONY                 |Tsiky Fandresena              	|  NON  | 22:07:16  |
+09 |ANDRIANJAFY RAMANAVAHY         |Miaritiana Emile              	|       |           |
+10 |ANDRINOELY                     |Mamy Fitiavana                	|       |           |
+11 |ANDRIANTSARA                   |Mioty Alicia                  	|  NON  | 22:07:16  |
+12 |ANDRY TSIRESY ANDRIAMBONIHAJA  |Tomefy Ny Soa                 	|       |           |
+13 |ANJAMAHENINA                   |Ella Gracia                   	|       |           |
+14 |ANJARAVONJISOA                 |Mandresy Clemence             	|       |           |
+15 |FANANTENANA                    |Valisoa Olivier Jeannet       	|       |           |
+16 |FANIRIANTSOA                   |Mampianina Lucia              	|       |           |
+17 |FYONONA                        |Joseph Honora                 	|       |           |
+18 |HARITSARA                      |Mendrika Ny Avo Fiderana Lucas	|  NON  | 22:07:16  |
+19 |HERIMANANTSOA                  |Manitriniaina Christian       	|       |           |
+20 |IGNACE                         |Franckie Elia Virginie        	|       |           |
+21 |MAHARAVO                       |Ny Ony Nandrianina            	|       |           |
+22 |MAMPIONONTSOA                  |Mario                         	|       |           |
+23 |MANDA                          |Mahatoky                      	|       |           |
+24 |NIRINJANAHARY                  |Anjaniaina                    	|       |           |
+25 |NOMENA FITIA                   |Famonjena                     	|       |           |
+26 |PABLO Y IARIVO                 |Hendrinimerina                	|       |           |
+27 |RABENANDRASANA                 |Hanitsoa Ayan                 	|       |           |
+28 |RABESON                        |Fanomezantsoa fenitra Emiliah 	|       |           |
+29 |RAELISON                       |Tanjona Zolalaina             	|  OUI  | 22:07:16  |
+30 |RAFANOMEZANTSOA                |Tolojanahary Jean Michel      	|       |           |
+31 |RAHARINIRINA                   |Nancia                        	|       |           |
+32 |RAHERIJAONA                    |Ambinintsoa Fifaliana         	|       |           |
+33 |RAHERINIRINA                   |Jean Mamitiana                	|       |           |
+34 |RAJOELINJANAHARINANTENAINA     |Fabien Halaby                 	|       |           |
+35 |RAKOTOARINTSOA                 |Haja Andriamanantena          	|       |           |
+36 |RAKOTOARISOA                   |Harilala                      	|       |           |
+37 |RAKOTOARISON                   |Niaina Gilbert                	| PERSO | 22:07:16  |
+38 |RAKOTOARIVELO                  |Jean                          	|       |           |
+39 |RAKOTOMAVO                     |Miharisoa Sitraka Manambina   	|       |           |
+40 |RAKOTONDRAFARA                 |Ronhy Fetraniaina             	|       |           |
+41 |RAKOTONDRAIBE                  |Mihasintsoa Andria-Jaina Hosea	|       |           |
+42 |RAKOTONDRAZAFY                 |Tahinandriamahery Isaia       	|       |           |
+43 |RAKOTONIAINA                   |Miantsatiana Emmanuella       	|       |           |
+44 |RAKOTOZANANY                   |Notahiana Vaniala             	|       |           |
+45 |RAMANANJATOVO                  |Safidiniaina                  	|       |           |
+46 |RAMANDIAMANANA                 |Iavonirina Ambinintsoa        	|       |           |
+47 |RAMINOARISOA                   |Rojotiana Finaritra           	|       |           |
+48 |RANAIVOTRIMO                   |Baritahiana johnson           	|  OUI  | 22:07:16  |
+49 |RANDIMBIMANANA                 |Toky                          	|       |           |
+50 |RANDRIAMANDIMBY                |Jocelyn Samuelson             	|       |           |
+51 |RANDRIAMBOLOLONA               |Toky Mathieu                  	|       |           |
+52 |RANDRIAMIARANA                 |Andoniaina Steve              	|       |           |
+53 |RANDRIAMIHOATRA                |Mbolamamy Sergio              	|       |           |
+54 |RANDRIANAIVO                   |Sitrakiniana Fitahiana Elysé 	|       |           |
+55 |RANDRIANINDRINA                |Toky Jeanny                   	|       |           |
+56 |RANDRIANIRINA                  |Mitantsoa                     	|       |           |
+57 |RASOLOFOARIVELO                |Mirado                        	|       |           |
+58 |RATOTOARISON                   |Safidi Alonso                 	|       |           |
+59 |RAFIMAHARO                     |Tiavina Herimiaina Gabrielle  	|       |           |
+60 |RAZAFIMAHATRATRA               |Vahatriniaina Sylvio          	|       |           |
+61 |RAZAFINARIVO                   |Jean Roméo                   	|       |           |
+62 |RAZAFINDRAKOTO                 |Tantely Tiana                 	|       |           |
+63 |RAZAFINDRAKOTO                 |Zely Karen                    	|       |           |
+64 |RAZAFITRIMO                    |sifeherana Miranto            	|       |           |
+65 |RAZAKAMANANA                   |Nasandratriniavo Heriniaina   	|       |           |
+66 |RAZAKAMIADANA                  |Manoa Fehizoro                	|       |           |
+67 |RAZAKANIRINA                   |Andrianina Mathieu            	|       |           |
+68 |RAZANADRAKOTO                  |Harifetra Angelo              	|       |           |
+69 |SEFOUDINE                      |Adnan Jivanjy Fitiavana       	|       |           |
+70 |HERIANDRISOA                   |Ialy Mikajy Hasina            	|       |           |
+71 |RAZAKARIVONY                   |Njarasoa Nombana              	|       |           |
+72 |RAZAFINDRAKOTO                 |Lewis Benjamin                	|       |           |
+73 |SANDY                          |Kathy                         	|       |           |
+74 |RAFIDISON                      |Ananda Andriamihago           	|       |           |
+75 |ANDRIMALALA                    |Ismaël                       	|       |           |
+76 |RIJASOA                        |ANDRIAMBOLA Miora Toky Ny Aina	|       |           |
+77 |MAHATSARA                      |Jean Luc                      	|       |           |
+
+
+				====> 28 // 07 // 2024 <<BR>
+N° |              NOM              |               PRENOM               |MACHINE|   HEURE   |
+---|-------------------------------|------------------------------------|-------|-----------|
+01 |AMBININTSOA                    |Jonuca                        	|  OUI  | 08:28:13  |
+02 |ANDRIAMAHEFA                   |Alexandre Fandry              	|       |           |
+03 |ANDRIAMANDRATOMANANA           |Narindrantsoa                 	|  NON  | 09:03:59  |
+04 |ANDRIANALIMANANA               |Finiavana Ambinintsoa         	|       |           |
+05 |ANDRIANANDRAINA                |Maherisoa Fanasina            	|       |           |
+06 |ANDRIANARIMINO                 |Tahiry Ny Aina Lawrena        	|       |           |
+07 |ANDRIANARIVO                   |Lantoniaina Frederick         	|       |           |
+08 |ANDRIANARIVONY                 |Tsiky Fandresena              	|  OUI  | 07:21:17  |
+09 |ANDRIANJAFY RAMANAVAHY         |Miaritiana Emile              	|       |           |
+10 |ANDRINOELY                     |Mamy Fitiavana                	|       |           |
+11 |ANDRIANTSARA                   |Mioty Alicia                  	|       |           |
+12 |ANDRY TSIRESY ANDRIAMBONIHAJA  |Tomefy Ny Soa                 	|       |           |
+13 |ANJAMAHENINA                   |Ella Gracia                   	|  OUI  | 14:27:28  |
+14 |ANJARAVONJISOA                 |Mandresy Clemence             	|       |           |
+15 |FANANTENANA                    |Valisoa Olivier Jeannet       	|       |           |
+16 |FANIRIANTSOA                   |Mampianina Lucia              	|  OUI  | 08:20:28  |
+17 |FYONONA                        |Joseph Honora                 	|       |           |
+18 |HARITSARA                      |Mendrika Ny Avo Fiderana Lucas	|  NON  | 07:21:17  |
+19 |HERIMANANTSOA                  |Manitriniaina Christian       	|       |           |
+20 |IGNACE                         |Franckie Elia Virginie        	|       |           |
+21 |MAHARAVO                       |Ny Ony Nandrianina            	|       |           |
+22 |MAMPIONONTSOA                  |Mario                         	|       |           |
+23 |MANDA                          |Mahatoky                      	|  OUI  | 07:33:31  |
+24 |NIRINJANAHARY                  |Anjaniaina                    	|       |           |
+25 |NOMENA FITIA                   |Famonjena                     	|       |           |
+26 |PABLO Y IARIVO                 |Hendrinimerina                	|       |           |
+27 |RABENANDRASANA                 |Hanitsoa Ayan                 	|       |           |
+28 |RABESON                        |Fanomezantsoa fenitra Emiliah 	|       |           |
+29 |RAELISON                       |Tanjona Zolalaina             	|       |           |
+30 |RAFANOMEZANTSOA                |Tolojanahary Jean Michel      	|       |           |
+31 |RAHARINIRINA                   |Nancia                        	|       |           |
+32 |RAHERIJAONA                    |Ambinintsoa Fifaliana         	|  OUI  | 08:35:45  |
+33 |RAHERINIRINA                   |Jean Mamitiana                	|       |           |
+34 |RAJOELINJANAHARINANTENAINA     |Fabien Halaby                 	|       |           |
+35 |RAKOTOARINTSOA                 |Haja Andriamanantena          	|       |           |
+36 |RAKOTOARISOA                   |Harilala                      	|       |           |
+37 |RAKOTOARISON                   |Niaina Gilbert                	|  OUI  | 08:33:06  |
+38 |RAKOTOARIVELO                  |Jean                          	|       |           |
+39 |RAKOTOMAVO                     |Miharisoa Sitraka Manambina   	|  OUI  | 08:40:49  |
+40 |RAKOTONDRAFARA                 |Ronhy Fetraniaina             	|       |           |
+41 |RAKOTONDRAIBE                  |Mihasintsoa Andria-Jaina Hosea	| PERSO | 07:21:17  |
+42 |RAKOTONDRAZAFY                 |Tahinandriamahery Isaia       	|       |           |
+43 |RAKOTONIAINA                   |Miantsatiana Emmanuella       	|       |           |
+44 |RAKOTOZANANY                   |Notahiana Vaniala             	|  OUI  | 17:31:28  |
+45 |RAMANANJATOVO                  |Safidiniaina                  	|       |           |
+46 |RAMANDIAMANANA                 |Iavonirina Ambinintsoa        	|       |           |
+47 |RAMINOARISOA                   |Rojotiana Finaritra           	|       |           |
+48 |RANAIVOTRIMO                   |Baritahiana johnson           	|  OUI  | 08:31:26  |
+49 |RANDIMBIMANANA                 |Toky                          	|       |           |
+50 |RANDRIAMANDIMBY                |Jocelyn Samuelson             	|       |           |
+51 |RANDRIAMBOLOLONA               |Toky Mathieu                  	|       |           |
+52 |RANDRIAMIARANA                 |Andoniaina Steve              	|       |           |
+53 |RANDRIAMIHOATRA                |Mbolamamy Sergio              	| PERSO | 17:31:28  |
+54 |RANDRIANAIVO                   |Sitrakiniana Fitahiana Elysé 	| PERSO | 14:36:27  |
+55 |RANDRIANINDRINA                |Toky Jeanny                   	|       |           |
+56 |RANDRIANIRINA                  |Mitantsoa                     	|       |           |
+57 |RASOLOFOARIVELO                |Mirado                        	|       |           |
+58 |RATOTOARISON                   |Safidi Alonso                 	|       |           |
+59 |RAFIMAHARO                     |Tiavina Herimiaina Gabrielle  	|       |           |
+60 |RAZAFIMAHATRATRA               |Vahatriniaina Sylvio          	|       |           |
+61 |RAZAFINARIVO                   |Jean Roméo                   	|       |           |
+62 |RAZAFINDRAKOTO                 |Tantely Tiana                 	|       |           |
+63 |RAZAFINDRAKOTO                 |Zely Karen                    	|       |           |
+64 |RAZAFITRIMO                    |sifeherana Miranto            	|       |           |
+65 |RAZAKAMANANA                   |Nasandratriniavo Heriniaina   	|       |           |
+66 |RAZAKAMIADANA                  |Manoa Fehizoro                	|       |           |
+67 |RAZAKANIRINA                   |Andrianina Mathieu            	|  NON  | 14:36:27  |
+68 |RAZANADRAKOTO                  |Harifetra Angelo              	|       |           |
+69 |SEFOUDINE                      |Adnan Jivanjy Fitiavana       	|       |           |
+70 |HERIANDRISOA                   |Ialy Mikajy Hasina            	|       |           |
+71 |RAZAKARIVONY                   |Njarasoa Nombana              	|       |           |
+72 |RAZAFINDRAKOTO                 |Lewis Benjamin                	|       |           |
+73 |SANDY                          |Kathy                         	|       |           |
+74 |RAFIDISON                      |Ananda Andriamihago           	|       |           |
+75 |ANDRIMALALA                    |Ismaël                       	|  OUI  | 09:47:21  |
+76 |RIJASOA                        |ANDRIAMBOLA Miora Toky Ny Aina	|       |           |
+77 |MAHATSARA                      |Jean Luc                      	|  OUI  | 08:34:10  |
